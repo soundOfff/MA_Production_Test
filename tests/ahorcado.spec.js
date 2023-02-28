@@ -1,4 +1,4 @@
-import { JuegoAhorcado } from "../src/js/ahorcado";
+import { JuegoAhorcado } from "../docs/js/ahorcado";
 
 describe("Tests del ahorcado", () => {
   let juego = new JuegoAhorcado();
